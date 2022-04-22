@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @kZINH0! :rocket:
-- 👀 I’m interested in a job offer for a dev position.
-- 🌱 I’m currently learning about cybersecurity and programming.
+<h2><b> Oi, eu me chamo Renan! </b></h2>
 
-<!---
-kZINH0/kZINH0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/kZINH0">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kZINH0&show_icons=true&include_all_commits=true&theme=radical&count_private=true" />
+</div>
+  </a>
+
+  <p>
+    Sou um aprendiz em programação, recém graduado em Cybersecurity e sempre procuro exercitar
+  </p>
