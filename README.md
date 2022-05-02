@@ -8,6 +8,6 @@
   </a>
 
   <p>
-    Sou um aprendiz em programação, recém graduado em Cybersecurity e sempre procuro exercitar os meus conhecimentos.
+    Sou um aprendiz em programação, recém graduado em Cybersecurity e sempre procuro exercitar os meus conhecimentos. </br>
     Atualmente estou focando em programação tanto front quanto back-end.
   </p>
