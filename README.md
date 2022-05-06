@@ -13,4 +13,7 @@
     <b>S</b>ou um aprendiz em programação, recém graduado em cybersecurity e sempre procuro exercitar os meus conhecimentos.</br>
     Atualmente estou focando em programação tanto front quanto back-end.
   </p>
+  <p align="center">
+    Amante de games🎮, airsoft🔫 e passar tempo com minha família👪.
+  </p>
 </div>
