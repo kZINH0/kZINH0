@@ -24,6 +24,6 @@
 <br>
 <div>
   <p align="center">
-  <a href src="https://tryhackme.com/badge/469071">Meu Perfil no Tryhackme!</a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/k.ZINHO.png" alt="TryHackMe">
   </p>
 </div>
