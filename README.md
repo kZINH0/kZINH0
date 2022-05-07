@@ -17,3 +17,7 @@
     Amante de games🎮, airsoft🔫 e passar tempo com minha família👪.
   </p>
 </div>
+
+<div align="center">
+<img height="200hv" src="https://c.tenor.com/ZL7cozaJo1QAAAAd/stalker.gif" />  
+</div>
