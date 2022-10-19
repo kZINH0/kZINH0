@@ -10,8 +10,8 @@
   <br>
 <div align="justify">
   <p>
-    <b>S</b>ou um aprendiz em programação, recém graduado em cybersecurity e sempre procuro exercitar os meus conhecimentos.</br>
-    Atualmente estou focando em programação tanto front quanto back-end, um pouco de cloud e cybersecurity pra não perder o costume.
+    <b>S</b>ou um aprendiz em programação, graduado em cybersecurity e sempre procurando exercitar os meus conhecimentos.</br>
+    Atualmente estou focando em programação tanto front quanto back-end, um pouco de cloud (Azure) e CTF quando sobra tempo xD.
   </p>
   <p align="center">
     Amante de games🎮, airsoft🔫 e passar tempo com minha família👪.
